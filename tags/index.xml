@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on HugoTeX</title>
-    <link>http://localhost:1313/jamtemp/tags/</link>
+    <link>https://codernakul.github.io/jamtemp/tags/</link>
     <description>Recent content in Tags on HugoTeX</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/jamtemp/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Index</title>
-      <link>http://localhost:1313/jamtemp/tags/index/</link>
-      <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/index/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://codernakul.github.io/jamtemp/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Css</title>
-      <link>http://localhost:1313/jamtemp/tags/css/</link>
+      <link>https://codernakul.github.io/jamtemp/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/css/</guid>
+      <guid>https://codernakul.github.io/jamtemp/tags/css/</guid>
       <description></description>
     </item>
     <item>
       <title>Html</title>
-      <link>http://localhost:1313/jamtemp/tags/html/</link>
+      <link>https://codernakul.github.io/jamtemp/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/html/</guid>
+      <guid>https://codernakul.github.io/jamtemp/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://codernakul.github.io/jamtemp/tags/index/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://codernakul.github.io/jamtemp/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/jamtemp/tags/markdown/</link>
+      <link>https://codernakul.github.io/jamtemp/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/markdown/</guid>
+      <guid>https://codernakul.github.io/jamtemp/tags/markdown/</guid>
       <description></description>
     </item>
     <item>
       <title>Privacy</title>
-      <link>http://localhost:1313/jamtemp/tags/privacy/</link>
+      <link>https://codernakul.github.io/jamtemp/tags/privacy/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/privacy/</guid>
+      <guid>https://codernakul.github.io/jamtemp/tags/privacy/</guid>
       <description></description>
     </item>
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/jamtemp/tags/shortcodes/</link>
+      <link>https://codernakul.github.io/jamtemp/tags/shortcodes/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/shortcodes/</guid>
+      <guid>https://codernakul.github.io/jamtemp/tags/shortcodes/</guid>
       <description></description>
     </item>
     <item>
       <title>Text</title>
-      <link>http://localhost:1313/jamtemp/tags/text/</link>
+      <link>https://codernakul.github.io/jamtemp/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/text/</guid>
+      <guid>https://codernakul.github.io/jamtemp/tags/text/</guid>
       <description></description>
     </item>
     <item>
       <title>Emoji</title>
-      <link>http://localhost:1313/jamtemp/tags/emoji/</link>
+      <link>https://codernakul.github.io/jamtemp/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/tags/emoji/</guid>
+      <guid>https://codernakul.github.io/jamtemp/tags/emoji/</guid>
       <description></description>
     </item>
   </channel>
