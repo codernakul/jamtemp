@@ -2,17 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://codernakul.github.io/mech/</loc>
+    <loc>https://codernakul.github.io/jamtemp/mech/</loc>
     <lastmod>2024-09-14T23:11:12+05:30</lastmod>
   </url><url>
-    <loc>https://codernakul.github.io/</loc>
+    <loc>https://codernakul.github.io/jamtemp/mech/my-first-mech/</loc>
     <lastmod>2024-09-14T23:11:12+05:30</lastmod>
   </url><url>
-    <loc>https://codernakul.github.io/posts/</loc>
+    <loc>https://codernakul.github.io/jamtemp/</loc>
+    <lastmod>2024-09-14T23:11:12+05:30</lastmod>
+  </url><url>
+    <loc>https://codernakul.github.io/jamtemp/posts/my-first-post/</loc>
     <lastmod>2020-09-14T23:06:54+05:30</lastmod>
   </url><url>
-    <loc>https://codernakul.github.io/categories/</loc>
+    <loc>https://codernakul.github.io/jamtemp/posts/</loc>
+    <lastmod>2020-09-14T23:06:54+05:30</lastmod>
   </url><url>
-    <loc>https://codernakul.github.io/tags/</loc>
+    <loc>https://codernakul.github.io/jamtemp/categories/</loc>
+  </url><url>
+    <loc>https://codernakul.github.io/jamtemp/tags/</loc>
   </url>
 </urlset>
