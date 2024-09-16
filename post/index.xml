@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on nakul - HugoTeX</title>
-    <link>http://localhost:1313/jamtemp/post/</link>
-    <description>Recent content in Posts on nakul - HugoTeX</description>
+    <title>Posts on nakul</title>
+    <link>https://codernakul.github.io/jamtemp/post/</link>
+    <description>Recent content in Posts on nakul</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 21 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/jamtemp/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codernakul.github.io/jamtemp/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shortcodes</title>
-      <link>http://localhost:1313/jamtemp/post/shortcodes/</link>
+      <link>https://codernakul.github.io/jamtemp/post/shortcodes/</link>
       <pubDate>Mon, 21 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/post/shortcodes/</guid>
+      <guid>https://codernakul.github.io/jamtemp/post/shortcodes/</guid>
       <description>&lt;p&gt;Tips for sidenotes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>http://localhost:1313/jamtemp/post/markdown-syntax/</link>
+      <link>https://codernakul.github.io/jamtemp/post/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/post/markdown-syntax/</guid>
+      <guid>https://codernakul.github.io/jamtemp/post/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rich Content</title>
-      <link>http://localhost:1313/jamtemp/post/rich-content/</link>
+      <link>https://codernakul.github.io/jamtemp/post/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/post/rich-content/</guid>
+      <guid>https://codernakul.github.io/jamtemp/post/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Placeholder Text</title>
-      <link>http://localhost:1313/jamtemp/post/placeholder-text/</link>
+      <link>https://codernakul.github.io/jamtemp/post/placeholder-text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/post/placeholder-text/</guid>
+      <guid>https://codernakul.github.io/jamtemp/post/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Math Typesetting</title>
-      <link>http://localhost:1313/jamtemp/post/math-typesetting/</link>
+      <link>https://codernakul.github.io/jamtemp/post/math-typesetting/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/post/math-typesetting/</guid>
+      <guid>https://codernakul.github.io/jamtemp/post/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Emoji Support</title>
-      <link>http://localhost:1313/jamtemp/post/emoji-support/</link>
+      <link>https://codernakul.github.io/jamtemp/post/emoji-support/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/jamtemp/post/emoji-support/</guid>
+      <guid>https://codernakul.github.io/jamtemp/post/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
   </channel>
