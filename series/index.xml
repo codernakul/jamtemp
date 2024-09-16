@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on HugoTeX</title>
-    <link>https://codernakul.github.io/jamtemp/series/</link>
-    <description>Recent content in Series on HugoTeX</description>
+    <title>Series on nakul - HugoTeX</title>
+    <link>http://localhost:1313/jamtemp/series/</link>
+    <description>Recent content in Series on nakul - HugoTeX</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://codernakul.github.io/jamtemp/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jamtemp/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Themes Guide</title>
-      <link>https://codernakul.github.io/jamtemp/series/themes-guide/</link>
+      <link>http://localhost:1313/jamtemp/series/themes-guide/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://codernakul.github.io/jamtemp/series/themes-guide/</guid>
+      <guid>http://localhost:1313/jamtemp/series/themes-guide/</guid>
       <description></description>
     </item>
   </channel>

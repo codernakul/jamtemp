@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on HugoTeX</title>
-    <link>https://codernakul.github.io/jamtemp/categories/</link>
-    <description>Recent content in Categories on HugoTeX</description>
+    <title>Categories on nakul - HugoTeX</title>
+    <link>http://localhost:1313/jamtemp/categories/</link>
+    <description>Recent content in Categories on nakul - HugoTeX</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://codernakul.github.io/jamtemp/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/jamtemp/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax</title>
-      <link>https://codernakul.github.io/jamtemp/categories/syntax/</link>
+      <link>http://localhost:1313/jamtemp/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://codernakul.github.io/jamtemp/categories/syntax/</guid>
+      <guid>http://localhost:1313/jamtemp/categories/syntax/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://codernakul.github.io/jamtemp/categories/themes/</link>
+      <link>http://localhost:1313/jamtemp/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>https://codernakul.github.io/jamtemp/categories/themes/</guid>
+      <guid>http://localhost:1313/jamtemp/categories/themes/</guid>
       <description></description>
     </item>
   </channel>
